@@ -1,0 +1,14 @@
+{
+  "program": "roulette_three_spins_alp.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "roulette_alp.aleo",
+      "location": "local",
+      "network": null,
+      "path": "../roulette"
+    }
+  ]
+}

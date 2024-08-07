@@ -1,0 +1,6 @@
+[[package]]
+name = "roulette_alp.aleo"
+location = "local"
+path = "/Users/alpguneysel/Desktop/_dev/_blockchain/_interview/aleo/roulette/roulette_three_spins/../roulette"
+checksum = "98ffcb85bbea13979172944db43da5f68a5d562a757aae81226396cb248f06a8"
+dependencies = []
